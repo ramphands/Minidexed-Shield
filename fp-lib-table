@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "minidexed shield")(type "KiCad")(uri "${KIPRJMOD}/minidexed shield.pretty")(options "")(descr ""))
+)
