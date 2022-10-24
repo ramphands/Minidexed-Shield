@@ -1,5 +1,5 @@
 # Minidexed-Shield
-A shield for a Rpi running [Minidexed](https://github.com/probonopd/MiniDexed/)
+A shield for a Raspberry Pi (Model 3) running [Minidexed](https://github.com/probonopd/MiniDexed/)
 ![alt text](0.jpg?raw=true)
 image of the shield in use
 
